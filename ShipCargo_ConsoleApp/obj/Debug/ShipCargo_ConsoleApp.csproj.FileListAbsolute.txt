@@ -1,0 +1,7 @@
+C:\Users\Łukasz\source\repos\ShipCargo_ConsoleApp\ShipCargo_ConsoleApp\bin\Debug\ShipCargo_ConsoleApp.exe.config
+C:\Users\Łukasz\source\repos\ShipCargo_ConsoleApp\ShipCargo_ConsoleApp\bin\Debug\ShipCargo_ConsoleApp.exe
+C:\Users\Łukasz\source\repos\ShipCargo_ConsoleApp\ShipCargo_ConsoleApp\bin\Debug\ShipCargo_ConsoleApp.pdb
+C:\Users\Łukasz\source\repos\ShipCargo_ConsoleApp\ShipCargo_ConsoleApp\obj\Debug\ShipCargo_ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Łukasz\source\repos\ShipCargo_ConsoleApp\ShipCargo_ConsoleApp\obj\Debug\ShipCargo_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Łukasz\source\repos\ShipCargo_ConsoleApp\ShipCargo_ConsoleApp\obj\Debug\ShipCargo_ConsoleApp.exe
+C:\Users\Łukasz\source\repos\ShipCargo_ConsoleApp\ShipCargo_ConsoleApp\obj\Debug\ShipCargo_ConsoleApp.pdb
